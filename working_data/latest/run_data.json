@@ -1,0 +1,764 @@
+[
+  {
+    "started_at": "2026-09-30T22:10:03+00:00",
+    "finished_at": "2026-09-30T22:10:04+00:00",
+    "theme": "Hospitals",
+    "force": false,
+    "dataset_count": 75,
+    "status_counts": {
+      "downloaded": 75
+    },
+    "results": [
+      {
+        "identifier": "4jcv-atw7",
+        "title": "Ambulatory Surgical Center Quality Measures - Facility",
+        "status": "downloaded",
+        "reason": "new_or_missing_local_file",
+        "modified": "2025-12-16",
+        "output_file": "C:\\Users\\mduga\\test\\working_data\\completed\\4jcv-atw7__ASC_Facility.csv",
+        "bytes": 1523913,
+        "column_count": 47
+      },
+      {
+        "identifier": "wue8-3vwe",
+        "title": "Ambulatory Surgical Center Quality Measures - National",
+        "status": "downloaded",
+        "reason": "new_or_missing_local_file",
+        "modified": "2025-12-16",
+        "output_file": "C:\\Users\\mduga\\test\\working_data\\completed\\wue8-3vwe__ASC_National.csv",
+        "bytes": 835,
+        "column_count": 37
+      },
+      {
+        "identifier": "axe7-s95e",
+        "title": "Ambulatory Surgical Center Quality Measures - State",
+        "status": "downloaded",
+        "reason": "new_or_missing_local_file",
+        "modified": "2025-12-16",
+        "output_file": "C:\\Users\\mduga\\test\\working_data\\completed\\axe7-s95e__ASC_State.csv",
+        "bytes": 8392,
+        "column_count": 34
+      },
+      {
+        "identifier": "hbf-map",
+        "title": "Birthing Friendly Hospitals with Geocoded Addresses",
+        "status": "downloaded",
+        "reason": "new_or_missing_local_file",
+        "modified": "2026-07-28",
+        "output_file": "C:\\Users\\mduga\\test\\working_data\\completed\\hbf-map__Birthing_Friendly_Hospitals_Geocoded.csv",
+        "bytes": 208844,
+        "column_count": 7
+      },
+      {
+        "identifier": "muwa-iene",
+        "title": "CMS Medicare PSI-90 and component measures - six-digit estimate dataset",
+        "status": "downloaded",
+        "reason": "new_or_missing_local_file",
+        "modified": "2026-07-22",
+        "output_file": "C:\\Users\\mduga\\test\\working_data\\completed\\muwa-iene__CMS_PSI_6_decimal_file.csv",
+        "bytes": 8915629,
+        "column_count": 13
+      },
+      {
+        "identifier": "ynj2-r877",
+        "title": "Complications and Deaths - Hospital",
+        "status": "downloaded",
+        "reason": "new_or_missing_local_file",
+        "modified": "2026-09-10",
+        "output_file": "C:\\Users\\mduga\\test\\working_data\\completed\\ynj2-r877__Complications_and_Deaths-Hospital.csv",
+        "bytes": 22813086,
+        "column_count": 18
+      },
+      {
+        "identifier": "qqw3-t4ie",
+        "title": "Complications and Deaths - National",
+        "status": "downloaded",
+        "reason": "new_or_missing_local_file",
+        "modified": "2026-09-10",
+        "output_file": "C:\\Users\\mduga\\test\\working_data\\completed\\qqw3-t4ie__Complications_and_Deaths-National.csv",
+        "bytes": 2437,
+        "column_count": 10
+      },
+      {
+        "identifier": "bs2r-24vh",
+        "title": "Complications and Deaths - State",
+        "status": "downloaded",
+        "reason": "new_or_missing_local_file",
+        "modified": "2026-09-10",
+        "output_file": "C:\\Users\\mduga\\test\\working_data\\completed\\bs2r-24vh__Complications_and_Deaths-State.csv",
+        "bytes": 123641,
+        "column_count": 10
+      },
+      {
+        "identifier": "z8ax-x9j1",
+        "title": "Complications and Unplanned Hospital Visits - PPS-Exempt Cancer Hospital - Hospital",
+        "status": "downloaded",
+        "reason": "new_or_missing_local_file",
+        "modified": "2026-09-10",
+        "output_file": "C:\\Users\\mduga\\test\\working_data\\completed\\z8ax-x9j1__PCH_Complications_Unplanned_Hospital_Visits_HOSPITAL.csv",
+        "bytes": 12356,
+        "column_count": 18
+      },
+      {
+        "identifier": "jfnd-nl7s",
+        "title": "Complications and Unplanned Hospital Visits - PPS-Exempt Cancer Hospital - National",
+        "status": "downloaded",
+        "reason": "new_or_missing_local_file",
+        "modified": "2026-09-10",
+        "output_file": "C:\\Users\\mduga\\test\\working_data\\completed\\jfnd-nl7s__PCH_Complications_Unplanned_Hospital_Visits_NATIONAL.csv",
+        "bytes": 689,
+        "column_count": 9
+      },
+      {
+        "identifier": "tqkv-mgxq",
+        "title": "Comprehensive Care For Joint Replacement Model - Provider Data",
+        "status": "downloaded",
+        "reason": "new_or_missing_local_file",
+        "modified": "2026-01-26",
+        "output_file": "C:\\Users\\mduga\\test\\working_data\\completed\\tqkv-mgxq__CJR_Quality_Reporting_January_2026_Production_File.csv",
+        "bytes": 53826,
+        "column_count": 18
+      },
+      {
+        "identifier": "bzsr-4my4",
+        "title": "Data Updates",
+        "status": "downloaded",
+        "reason": "new_or_missing_local_file",
+        "modified": "2026-07-15",
+        "output_file": "C:\\Users\\mduga\\test\\working_data\\completed\\bzsr-4my4__Data_Updates_July_2026.csv",
+        "bytes": 193871,
+        "column_count": 4
+      },
+      {
+        "identifier": "y9us-9xdf",
+        "title": "Footnote Crosswalk",
+        "status": "downloaded",
+        "reason": "new_or_missing_local_file",
+        "modified": "2025-09-18",
+        "output_file": "C:\\Users\\mduga\\test\\working_data\\completed\\y9us-9xdf__Footnote_Crosswalk.csv",
+        "bytes": 3455,
+        "column_count": 2
+      },
+      {
+        "identifier": "77hc-ibv8",
+        "title": "Healthcare Associated Infections - Hospital",
+        "status": "downloaded",
+        "reason": "new_or_missing_local_file",
+        "modified": "2026-07-22",
+        "output_file": "C:\\Users\\mduga\\test\\working_data\\completed\\77hc-ibv8__Healthcare_Associated_Infections-Hospital.csv",
+        "bytes": 38629829,
+        "column_count": 15
+      },
+      {
+        "identifier": "yd3s-jyhd",
+        "title": "Healthcare Associated Infections - National",
+        "status": "downloaded",
+        "reason": "new_or_missing_local_file",
+        "modified": "2026-07-22",
+        "output_file": "C:\\Users\\mduga\\test\\working_data\\completed\\yd3s-jyhd__Healthcare_Associated_Infections-National.csv",
+        "bytes": 504,
+        "column_count": 6
+      },
+      {
+        "identifier": "k2ze-bqvw",
+        "title": "Healthcare Associated Infections - State",
+        "status": "downloaded",
+        "reason": "new_or_missing_local_file",
+        "modified": "2026-07-22",
+        "output_file": "C:\\Users\\mduga\\test\\working_data\\completed\\k2ze-bqvw__Healthcare_Associated_Infections-State.csv",
+        "bytes": 101354,
+        "column_count": 7
+      },
+      {
+        "identifier": "xubh-q36u",
+        "title": "Hospital General Information",
+        "status": "downloaded",
+        "reason": "new_or_missing_local_file",
+        "modified": "2026-07-22",
+        "output_file": "C:\\Users\\mduga\\test\\working_data\\completed\\xubh-q36u__Hospital_General_Information.csv",
+        "bytes": 1450690,
+        "column_count": 38
+      },
+      {
+        "identifier": "9n3s-kdb3",
+        "title": "Hospital Readmissions Reduction Program",
+        "status": "downloaded",
+        "reason": "new_or_missing_local_file",
+        "modified": "2026-01-26",
+        "output_file": "C:\\Users\\mduga\\test\\working_data\\completed\\9n3s-kdb3__FY_2026_Hospital_Readmissions_Reduction_Program_Hospital.csv",
+        "bytes": 2068439,
+        "column_count": 12
+      },
+      {
+        "identifier": "pudb-wetr",
+        "title": "Hospital Value-Based Purchasing (HVBP) - Clinical Outcomes Domain Scores",
+        "status": "downloaded",
+        "reason": "new_or_missing_local_file",
+        "modified": "2026-01-26",
+        "output_file": "C:\\Users\\mduga\\test\\working_data\\completed\\pudb-wetr__hvbp_clinical_outcomes.csv",
+        "bytes": 1334846,
+        "column_count": 50
+      },
+      {
+        "identifier": "su9h-3pvj",
+        "title": "Hospital Value-Based Purchasing (HVBP) - Efficiency Scores",
+        "status": "downloaded",
+        "reason": "new_or_missing_local_file",
+        "modified": "2026-01-26",
+        "output_file": "C:\\Users\\mduga\\test\\working_data\\completed\\su9h-3pvj__hvbp_efficiency_and_cost_reduction.csv",
+        "bytes": 397495,
+        "column_count": 15
+      },
+      {
+        "identifier": "avtz-f2ge",
+        "title": "Hospital Value-Based Purchasing (HVBP) - Person and Community Engagement Domain Scores (HCAHPS)",
+        "status": "downloaded",
+        "reason": "new_or_missing_local_file",
+        "modified": "2026-01-26",
+        "output_file": "C:\\Users\\mduga\\test\\working_data\\completed\\avtz-f2ge__hvbp_person_and_community_engagement.csv",
+        "bytes": 1505781,
+        "column_count": 74
+      },
+      {
+        "identifier": "dgmq-aat3",
+        "title": "Hospital Value-Based Purchasing (HVBP) - Safety",
+        "status": "downloaded",
+        "reason": "new_or_missing_local_file",
+        "modified": "2026-04-28",
+        "output_file": "C:\\Users\\mduga\\test\\working_data\\completed\\dgmq-aat3__hvbp_safety.csv",
+        "bytes": 1414771,
+        "column_count": 58
+      },
+      {
+        "identifier": "ypbt-wvdk",
+        "title": "Hospital Value-Based Purchasing (HVBP) - Total Performance Score",
+        "status": "downloaded",
+        "reason": "new_or_missing_local_file",
+        "modified": "2026-01-26",
+        "output_file": "C:\\Users\\mduga\\test\\working_data\\completed\\ypbt-wvdk__hvbp_tps.csv",
+        "bytes": 568001,
+        "column_count": 17
+      },
+      {
+        "identifier": "yq43-i98g",
+        "title": "Hospital-Acquired Condition (HAC) Reduction Program",
+        "status": "downloaded",
+        "reason": "new_or_missing_local_file",
+        "modified": "2026-01-26",
+        "output_file": "C:\\Users\\mduga\\test\\working_data\\completed\\yq43-i98g__FY_2026_HAC_Reduction_Program_Hospital.csv",
+        "bytes": 595628,
+        "column_count": 36
+      },
+      {
+        "identifier": "s5xg-sys6",
+        "title": "Inpatient Psychiatric Facility Quality Measure Data - National",
+        "status": "downloaded",
+        "reason": "new_or_missing_local_file",
+        "modified": "2026-07-22",
+        "output_file": "C:\\Users\\mduga\\test\\working_data\\completed\\s5xg-sys6__IPFQR_QualityMeasures_National.csv",
+        "bytes": 2027,
+        "column_count": 56
+      },
+      {
+        "identifier": "q9vs-r7wp",
+        "title": "Inpatient Psychiatric Facility Quality Measure Data - by Facility",
+        "status": "downloaded",
+        "reason": "new_or_missing_local_file",
+        "modified": "2026-07-22",
+        "output_file": "C:\\Users\\mduga\\test\\working_data\\completed\\q9vs-r7wp__IPFQR_QualityMeasures_Facility.csv",
+        "bytes": 1649911,
+        "column_count": 78
+      },
+      {
+        "identifier": "dc76-gh7x",
+        "title": "Inpatient Psychiatric Facility Quality Measure Data - by State",
+        "status": "downloaded",
+        "reason": "new_or_missing_local_file",
+        "modified": "2026-07-22",
+        "output_file": "C:\\Users\\mduga\\test\\working_data\\completed\\dc76-gh7x__IPFQR_QualityMeasures_State.csv",
+        "bytes": 48538,
+        "column_count": 44
+      },
+      {
+        "identifier": "nrdb-3fcy",
+        "title": "Maternal Health - Hospital",
+        "status": "downloaded",
+        "reason": "new_or_missing_local_file",
+        "modified": "2026-07-22",
+        "output_file": "C:\\Users\\mduga\\test\\working_data\\completed\\nrdb-3fcy__Maternal_Health-Hospital.csv",
+        "bytes": 3752790,
+        "column_count": 15
+      },
+      {
+        "identifier": "4j6d-yzce",
+        "title": "Measure Dates",
+        "status": "downloaded",
+        "reason": "new_or_missing_local_file",
+        "modified": "2026-07-28",
+        "output_file": "C:\\Users\\mduga\\test\\working_data\\completed\\4j6d-yzce__Measure_Dates.csv",
+        "bytes": 18980,
+        "column_count": 6
+      },
+      {
+        "identifier": "nrth-mfg3",
+        "title": "Medicare Hospital Spending by Claim",
+        "status": "downloaded",
+        "reason": "new_or_missing_local_file",
+        "modified": "2026-01-26",
+        "output_file": "C:\\Users\\mduga\\test\\working_data\\completed\\nrth-mfg3__Medicare_Hospital_Spending_by_Claim.csv",
+        "bytes": 9777517,
+        "column_count": 13
+      },
+      {
+        "identifier": "rrqw-56er",
+        "title": "Medicare Spending Per Beneficiary - Hospital",
+        "status": "downloaded",
+        "reason": "new_or_missing_local_file",
+        "modified": "2026-07-22",
+        "output_file": "C:\\Users\\mduga\\test\\working_data\\completed\\rrqw-56er__Medicare_Hospital_Spending_Per_Patient-Hospital.csv",
+        "bytes": 990863,
+        "column_count": 14
+      },
+      {
+        "identifier": "5hk7-b79m",
+        "title": "Medicare Spending Per Beneficiary - Hospital Additional Decimal Places",
+        "status": "downloaded",
+        "reason": "new_or_missing_local_file",
+        "modified": "2026-01-26",
+        "output_file": "C:\\Users\\mduga\\test\\working_data\\completed\\5hk7-b79m__HOSPITAL_QUARTERLY_MSPB_6_DECIMALS.csv",
+        "bytes": 139614,
+        "column_count": 6
+      },
+      {
+        "identifier": "3n5g-6b7f",
+        "title": "Medicare Spending Per Beneficiary - National",
+        "status": "downloaded",
+        "reason": "new_or_missing_local_file",
+        "modified": "2026-07-22",
+        "output_file": "C:\\Users\\mduga\\test\\working_data\\completed\\3n5g-6b7f__Medicare_Hospital_Spending_Per_Patient-National.csv",
+        "bytes": 231,
+        "column_count": 8
+      },
+      {
+        "identifier": "rs6n-9qwg",
+        "title": "Medicare Spending Per Beneficiary - State",
+        "status": "downloaded",
+        "reason": "new_or_missing_local_file",
+        "modified": "2026-07-22",
+        "output_file": "C:\\Users\\mduga\\test\\working_data\\completed\\rs6n-9qwg__Medicare_Hospital_Spending_Per_Patient-State.csv",
+        "bytes": 6525,
+        "column_count": 7
+      },
+      {
+        "identifier": "wkfw-kthe",
+        "title": "Outpatient Imaging Efficiency - Hospital",
+        "status": "downloaded",
+        "reason": "new_or_missing_local_file",
+        "modified": "2026-07-22",
+        "output_file": "C:\\Users\\mduga\\test\\working_data\\completed\\wkfw-kthe__Outpatient_Imaging_Efficiency-Hospital.csv",
+        "bytes": 1594033,
+        "column_count": 14
+      },
+      {
+        "identifier": "di9i-zzrc",
+        "title": "Outpatient Imaging Efficiency - National",
+        "status": "downloaded",
+        "reason": "new_or_missing_local_file",
+        "modified": "2026-07-22",
+        "output_file": "C:\\Users\\mduga\\test\\working_data\\completed\\di9i-zzrc__Outpatient_Imaging_Efficiency-National.csv",
+        "bytes": 198,
+        "column_count": 6
+      },
+      {
+        "identifier": "if5v-4x48",
+        "title": "Outpatient Imaging Efficiency - State",
+        "status": "downloaded",
+        "reason": "new_or_missing_local_file",
+        "modified": "2026-07-22",
+        "output_file": "C:\\Users\\mduga\\test\\working_data\\completed\\if5v-4x48__Outpatient_Imaging_Efficiency-State.csv",
+        "bytes": 8375,
+        "column_count": 7
+      },
+      {
+        "identifier": "48nr-hqxx",
+        "title": "Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for ambulatory surgical centers - Facility",
+        "status": "downloaded",
+        "reason": "new_or_missing_local_file",
+        "modified": "2026-07-22",
+        "output_file": "C:\\Users\\mduga\\test\\working_data\\completed\\48nr-hqxx__ASCQR_OAS_CAHPS_BY_ASC.csv",
+        "bytes": 877872,
+        "column_count": 30
+      },
+      {
+        "identifier": "tf3h-mrrs",
+        "title": "Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for ambulatory surgical centers - National",
+        "status": "downloaded",
+        "reason": "new_or_missing_local_file",
+        "modified": "2026-07-22",
+        "output_file": "C:\\Users\\mduga\\test\\working_data\\completed\\tf3h-mrrs__ASCQR_OAS_CAHPS_NATIONAL.csv",
+        "bytes": 1552,
+        "column_count": 21
+      },
+      {
+        "identifier": "x663-bwbj",
+        "title": "Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for ambulatory surgical centers - State",
+        "status": "downloaded",
+        "reason": "new_or_missing_local_file",
+        "modified": "2026-07-22",
+        "output_file": "C:\\Users\\mduga\\test\\working_data\\completed\\x663-bwbj__ASCQR_OAS_CAHPS_STATE.csv",
+        "bytes": 6233,
+        "column_count": 22
+      },
+      {
+        "identifier": "yizn-abxn",
+        "title": "Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for hospital outpatient departments - Facility",
+        "status": "downloaded",
+        "reason": "new_or_missing_local_file",
+        "modified": "2026-07-22",
+        "output_file": "C:\\Users\\mduga\\test\\working_data\\completed\\yizn-abxn__OQR_OAS_CAHPS_BY_HOSPITAL.csv",
+        "bytes": 30552729,
+        "column_count": 20
+      },
+      {
+        "identifier": "s5pj-hua3",
+        "title": "Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for hospital outpatient departments - National",
+        "status": "downloaded",
+        "reason": "new_or_missing_local_file",
+        "modified": "2026-07-22",
+        "output_file": "C:\\Users\\mduga\\test\\working_data\\completed\\s5pj-hua3__OQR_OAS_CAHPS_NATIONAL.csv",
+        "bytes": 3359,
+        "column_count": 7
+      },
+      {
+        "identifier": "6pfg-whmx",
+        "title": "Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for hospital outpatient departments - State",
+        "status": "downloaded",
+        "reason": "new_or_missing_local_file",
+        "modified": "2026-07-22",
+        "output_file": "C:\\Users\\mduga\\test\\working_data\\completed\\6pfg-whmx__OQR_OAS_CAHPS_STATE.csv",
+        "bytes": 183429,
+        "column_count": 8
+      },
+      {
+        "identifier": "qoeg-w7ck",
+        "title": "Palliative Care - PPS-Exempt Cancer Hospital - Hospital",
+        "status": "downloaded",
+        "reason": "new_or_missing_local_file",
+        "modified": "2026-07-22",
+        "output_file": "C:\\Users\\mduga\\test\\working_data\\completed\\qoeg-w7ck__PCH_Palliative_Care_HOSPITAL.csv",
+        "bytes": 10848,
+        "column_count": 15
+      },
+      {
+        "identifier": "qigt-w5cx",
+        "title": "Palliative Care - PPS-Exempt Cancer Hospital - National",
+        "status": "downloaded",
+        "reason": "new_or_missing_local_file",
+        "modified": "2026-07-22",
+        "output_file": "C:\\Users\\mduga\\test\\working_data\\completed\\qigt-w5cx__PCH_Palliative_Care_NATIONAL.csv",
+        "bytes": 544,
+        "column_count": 5
+      },
+      {
+        "identifier": "1su6-zfft",
+        "title": "Patient Engagement PPS-Exempt Cancer Hospital - Hospital",
+        "status": "downloaded",
+        "reason": "new_or_missing_local_file",
+        "modified": "2026-07-22",
+        "output_file": "C:\\Users\\mduga\\test\\working_data\\completed\\1su6-zfft__PCH_Patient_Engagement_Hospital.csv",
+        "bytes": 3768,
+        "column_count": 15
+      },
+      {
+        "identifier": "4dyz-5kt1",
+        "title": "Patient Engagement PPS-Exempt Cancer Hospital - National",
+        "status": "downloaded",
+        "reason": "new_or_missing_local_file",
+        "modified": "2026-07-22",
+        "output_file": "C:\\Users\\mduga\\test\\working_data\\completed\\4dyz-5kt1__PCH_Patient_Engagement_National.csv",
+        "bytes": 268,
+        "column_count": 5
+      },
+      {
+        "identifier": "iy27-wz37",
+        "title": "Patient Survey (PCH - HCAHPS) PPS-Exempt Cancer Hospital - Hospital",
+        "status": "downloaded",
+        "reason": "new_or_missing_local_file",
+        "modified": "2026-07-22",
+        "output_file": "C:\\Users\\mduga\\test\\working_data\\completed\\iy27-wz37__PCH_HCAHPS_HOSPITAL.csv",
+        "bytes": 246714,
+        "column_count": 22
+      },
+      {
+        "identifier": "9g7e-btyt",
+        "title": "Patient Survey (PCH - HCAHPS) PPS-Exempt Cancer Hospital - National",
+        "status": "downloaded",
+        "reason": "new_or_missing_local_file",
+        "modified": "2026-07-22",
+        "output_file": "C:\\Users\\mduga\\test\\working_data\\completed\\9g7e-btyt__PCH_HCAHPS_NATIONAL.csv",
+        "bytes": 10024,
+        "column_count": 6
+      },
+      {
+        "identifier": "qatj-nmws",
+        "title": "Patient Survey (PCH - HCAHPS) PPS-Exempt Cancer Hospital - State",
+        "status": "downloaded",
+        "reason": "new_or_missing_local_file",
+        "modified": "2026-07-22",
+        "output_file": "C:\\Users\\mduga\\test\\working_data\\completed\\qatj-nmws__PCH_HCAHPS_STATE.csv",
+        "bytes": 566982,
+        "column_count": 7
+      },
+      {
+        "identifier": "dgck-syfz",
+        "title": "Patient survey (HCAHPS) - Hospital",
+        "status": "downloaded",
+        "reason": "new_or_missing_local_file",
+        "modified": "2026-07-22",
+        "output_file": "C:\\Users\\mduga\\test\\working_data\\completed\\dgck-syfz__HCAHPS-Hospital.csv",
+        "bytes": 105461074,
+        "column_count": 22
+      },
+      {
+        "identifier": "99ue-w85f",
+        "title": "Patient survey (HCAHPS) - National",
+        "status": "downloaded",
+        "reason": "new_or_missing_local_file",
+        "modified": "2026-07-22",
+        "output_file": "C:\\Users\\mduga\\test\\working_data\\completed\\99ue-w85f__HCAHPS-National.csv",
+        "bytes": 10091,
+        "column_count": 7
+      },
+      {
+        "identifier": "84jm-wiui",
+        "title": "Patient survey (HCAHPS) - State",
+        "status": "downloaded",
+        "reason": "new_or_missing_local_file",
+        "modified": "2026-07-22",
+        "output_file": "C:\\Users\\mduga\\test\\working_data\\completed\\84jm-wiui__HCAHPS-State.csv",
+        "bytes": 570058,
+        "column_count": 8
+      },
+      {
+        "identifier": "mxtu-43qs",
+        "title": "Patient-Reported Outcomes - Hospital",
+        "status": "downloaded",
+        "reason": "new_or_missing_local_file",
+        "modified": "2026-08-05",
+        "output_file": "C:\\Users\\mduga\\test\\working_data\\completed\\mxtu-43qs__PATIENT_REPORTED_OUTCOMES_FACILITY.csv",
+        "bytes": 1296805,
+        "column_count": 15
+      },
+      {
+        "identifier": "f4ga-b9gx",
+        "title": "Promoting Interoperability - Hospital",
+        "status": "downloaded",
+        "reason": "new_or_missing_local_file",
+        "modified": "2026-07-22",
+        "output_file": "C:\\Users\\mduga\\test\\working_data\\completed\\f4ga-b9gx__Promoting_Interoperability-Hospital.csv",
+        "bytes": 647288,
+        "column_count": 12
+      },
+      {
+        "identifier": "7peb-i4pi",
+        "title": "Rural Emergency Hospital Outpatient Imaging Efficiency - Hospital",
+        "status": "downloaded",
+        "reason": "new_or_missing_local_file",
+        "modified": "2026-07-22",
+        "output_file": "C:\\Users\\mduga\\test\\working_data\\completed\\7peb-i4pi__REH_Outpatient_Imaging_Efficiency-Hospital.csv",
+        "bytes": 7868,
+        "column_count": 14
+      },
+      {
+        "identifier": "zt3q-3e1z",
+        "title": "Rural Emergency Hospital Outpatient Imaging Efficiency - National",
+        "status": "downloaded",
+        "reason": "new_or_missing_local_file",
+        "modified": "2026-07-22",
+        "output_file": "C:\\Users\\mduga\\test\\working_data\\completed\\zt3q-3e1z__REH_Outpatient_Imaging_Efficiency-National.csv",
+        "bytes": 133,
+        "column_count": 6
+      },
+      {
+        "identifier": "97xg-v3wv",
+        "title": "Rural Emergency Hospital Timely and Effective Care - Hospital",
+        "status": "downloaded",
+        "reason": "new_or_missing_local_file",
+        "modified": "2026-07-22",
+        "output_file": "C:\\Users\\mduga\\test\\working_data\\completed\\97xg-v3wv__REH_Timely_and_Effective_Care-Hospital.csv",
+        "bytes": 62491,
+        "column_count": 16
+      },
+      {
+        "identifier": "d2k3-k3ac",
+        "title": "Rural Emergency Hospital Timely and Effective Care - National",
+        "status": "downloaded",
+        "reason": "new_or_missing_local_file",
+        "modified": "2026-07-22",
+        "output_file": "C:\\Users\\mduga\\test\\working_data\\completed\\d2k3-k3ac__REH_Timely_and_Effective_Care-National.csv",
+        "bytes": 2804,
+        "column_count": 8
+      },
+      {
+        "identifier": "zez1-ka2w",
+        "title": "Rural Emergency Hospital Unplanned Hospital Visits - Hospital",
+        "status": "downloaded",
+        "reason": "new_or_missing_local_file",
+        "modified": "2026-07-22",
+        "output_file": "C:\\Users\\mduga\\test\\working_data\\completed\\zez1-ka2w__REH_Unplanned_Hospital_Visits-Hospital.csv",
+        "bytes": 11911,
+        "column_count": 18
+      },
+      {
+        "identifier": "uk3n-au7a",
+        "title": "Rural Emergency Hospital Unplanned Hospital Visits - National",
+        "status": "downloaded",
+        "reason": "new_or_missing_local_file",
+        "modified": "2026-07-22",
+        "output_file": "C:\\Users\\mduga\\test\\working_data\\completed\\uk3n-au7a__REH_Unplanned_Hospital_Visits-National.csv",
+        "bytes": 299,
+        "column_count": 10
+      },
+      {
+        "identifier": "k653-4ka8",
+        "title": "Safety and Healthcare-Associated Infection Measures - PPS-Exempt Cancer Hospital",
+        "status": "downloaded",
+        "reason": "new_or_missing_local_file",
+        "modified": "2026-07-22",
+        "output_file": "C:\\Users\\mduga\\test\\working_data\\completed\\k653-4ka8__PCH_HEALTHCARE_ASSOCIATED_INFECTIONS_HOSPITAL.csv",
+        "bytes": 66687,
+        "column_count": 14
+      },
+      {
+        "identifier": "5gv4-jwyv",
+        "title": "Table 1: FY2024 Net Change in Base Operating DRG Payment Amount",
+        "status": "downloaded",
+        "reason": "new_or_missing_local_file",
+        "modified": "2025-12-09",
+        "output_file": "C:\\Users\\mduga\\test\\working_data\\completed\\5gv4-jwyv__FY2024_Net_Change_in_Base_Op_DRG_Payment_Amt.csv",
+        "bytes": 896,
+        "column_count": 2
+      },
+      {
+        "identifier": "xrgf-x36b",
+        "title": "Table 2: FY2024 Distribution of Net Change in Base Operating DRG Payment Amount",
+        "status": "downloaded",
+        "reason": "new_or_missing_local_file",
+        "modified": "2025-12-09",
+        "output_file": "C:\\Users\\mduga\\test\\working_data\\completed\\xrgf-x36b__FY2024_Distribution_of_Net_Change_in_Base_Op_DRG_Payment_Amt.csv",
+        "bytes": 263,
+        "column_count": 2
+      },
+      {
+        "identifier": "u625-zae7",
+        "title": "Table 3: FY2024 Percent Change in Medicare Payments",
+        "status": "downloaded",
+        "reason": "new_or_missing_local_file",
+        "modified": "2025-12-09",
+        "output_file": "C:\\Users\\mduga\\test\\working_data\\completed\\u625-zae7__FY2024_Percent_Change_in_Medicare_Payments.csv",
+        "bytes": 500,
+        "column_count": 2
+      },
+      {
+        "identifier": "vtqa-m4zn",
+        "title": "Table 4: FY2024 Value-Based Incentive Payment Amount",
+        "status": "downloaded",
+        "reason": "new_or_missing_local_file",
+        "modified": "2025-12-09",
+        "output_file": "C:\\Users\\mduga\\test\\working_data\\completed\\vtqa-m4zn__FY2024_Value_Based_Incentive_Payment_Amount.csv",
+        "bytes": 767,
+        "column_count": 2
+      },
+      {
+        "identifier": "yv7e-xc69",
+        "title": "Timely and Effective Care - Hospital",
+        "status": "downloaded",
+        "reason": "new_or_missing_local_file",
+        "modified": "2026-07-22",
+        "output_file": "C:\\Users\\mduga\\test\\working_data\\completed\\yv7e-xc69__Timely_and_Effective_Care-Hospital.csv",
+        "bytes": 34150866,
+        "column_count": 16
+      },
+      {
+        "identifier": "isrn-hqyy",
+        "title": "Timely and Effective Care - National",
+        "status": "downloaded",
+        "reason": "new_or_missing_local_file",
+        "modified": "2026-07-22",
+        "output_file": "C:\\Users\\mduga\\test\\working_data\\completed\\isrn-hqyy__Timely_and_Effective_Care-National.csv",
+        "bytes": 13788,
+        "column_count": 8
+      },
+      {
+        "identifier": "apyc-v239",
+        "title": "Timely and Effective Care - State",
+        "status": "downloaded",
+        "reason": "new_or_missing_local_file",
+        "modified": "2026-07-22",
+        "output_file": "C:\\Users\\mduga\\test\\working_data\\completed\\apyc-v239__Timely_and_Effective_Care-State.csv",
+        "bytes": 394720,
+        "column_count": 8
+      },
+      {
+        "identifier": "632h-zaca",
+        "title": "Unplanned Hospital Visits - Hospital",
+        "status": "downloaded",
+        "reason": "new_or_missing_local_file",
+        "modified": "2026-09-10",
+        "output_file": "C:\\Users\\mduga\\test\\working_data\\completed\\632h-zaca__Unplanned_Hospital_Visits-Hospital.csv",
+        "bytes": 18945770,
+        "column_count": 20
+      },
+      {
+        "identifier": "cvcs-xecj",
+        "title": "Unplanned Hospital Visits - National",
+        "status": "downloaded",
+        "reason": "new_or_missing_local_file",
+        "modified": "2026-09-10",
+        "output_file": "C:\\Users\\mduga\\test\\working_data\\completed\\cvcs-xecj__Unplanned_Hospital_Visits-National.csv",
+        "bytes": 3153,
+        "column_count": 14
+      },
+      {
+        "identifier": "4gkm-5ypv",
+        "title": "Unplanned Hospital Visits - State",
+        "status": "downloaded",
+        "reason": "new_or_missing_local_file",
+        "modified": "2026-09-10",
+        "output_file": "C:\\Users\\mduga\\test\\working_data\\completed\\4gkm-5ypv__Unplanned_Hospital_Visits-State.csv",
+        "bytes": 156712,
+        "column_count": 14
+      },
+      {
+        "identifier": "6qxe-iqz8",
+        "title": "Veterans Health Administration Behavioral Health Data",
+        "status": "downloaded",
+        "reason": "new_or_missing_local_file",
+        "modified": "2026-07-22",
+        "output_file": "C:\\Users\\mduga\\test\\working_data\\completed\\6qxe-iqz8__VA_IPF.csv",
+        "bytes": 156896,
+        "column_count": 16
+      },
+      {
+        "identifier": "uyx4-5s7f",
+        "title": "Veterans Health Administration Provider Level Data",
+        "status": "downloaded",
+        "reason": "new_or_missing_local_file",
+        "modified": "2026-07-22",
+        "output_file": "C:\\Users\\mduga\\test\\working_data\\completed\\uyx4-5s7f__Veterans_Health_Administration_Provider_Level_Data.csv",
+        "bytes": 24349,
+        "column_count": 13
+      },
+      {
+        "identifier": "ptds-r8im",
+        "title": "Veterans Health Administration Timely and Effective Care Data",
+        "status": "downloaded",
+        "reason": "new_or_missing_local_file",
+        "modified": "2026-07-22",
+        "output_file": "C:\\Users\\mduga\\test\\working_data\\completed\\ptds-r8im__VA_TE.csv",
+        "bytes": 372269,
+        "column_count": 17
+      }
+    ]
+  }
+]
